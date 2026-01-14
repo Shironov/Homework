@@ -1,0 +1,1 @@
+Класс Group: хранит массив студентов (используй класс Student). Методы: addStudent, getAverageGrade (средний балл группы), getBestStudent, displayAll.
