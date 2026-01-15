@@ -1,4 +1,4 @@
-package Algorithms;
+package AlgorithmsHW;
 
 public class Main {
     public static void main() {
