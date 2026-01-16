@@ -1,12 +1,10 @@
-package hw3OaC.task1;
+package homework.hw3OaC.task1;
 
 
 /*
 ) Класс BankAccount: поля — номер счёта, владелец, баланс. Методы: deposit (пополнить),
  withdraw (снять, с проверкой что хватает денег), getBalance, displayInfo. Баланс не может быть отрицательным!
  */
-
-import org.w3c.dom.ls.LSOutput;
 
 public class BankAccount {
 

@@ -1,4 +1,4 @@
-package hw3OaC.task2;
+package homework.hw3OaC.task2;
 /*2) Класс Book: поля — название, автор, год издания, количество страниц, прочитано страниц. Методы: read(pages)
 — добавляет прочитанные страницы, getProgress() — возвращает процент прочитанного, isFinished() — вернёт true если дочитана*/
 public class Main {

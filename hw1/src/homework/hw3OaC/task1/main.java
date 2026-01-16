@@ -1,4 +1,4 @@
-package hw3OaC.task1;
+package homework.hw3OaC.task1;
 
 public class main {
     public static void main(){

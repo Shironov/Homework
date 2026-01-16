@@ -1,6 +1,4 @@
-package hw3OaC.task3;
-
-import java.util.Arrays;
+package homework.hw3OaC.task3;
 
 public class Student {
     private String name;

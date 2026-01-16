@@ -1,4 +1,4 @@
-package hw3OaC.task3;
+package homework.hw3OaC.task3;
 
 public class Group {
     private Student[] students;
